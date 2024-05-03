@@ -1,3 +1,4 @@
+"use client"
 // components/Countdown.js
 import React, { useState, useEffect } from 'react';
 
