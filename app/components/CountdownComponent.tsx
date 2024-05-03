@@ -36,7 +36,7 @@ const Countdown = () => {
   return (
     <div className="text-center py-10">
       <div className="flex justify-center items-center mb-5">
-        <img className='h-40' src='owen.jpg' alt="Owen's Birthday"></img>
+        <img className='h-40 border-4 border-black rounded-xl' src='owen.jpg' alt="Owen's Birthday"></img>
       </div>
       <h1 className="text-3xl font-bold mb-5">🎉🎉🎉Countdown to Owens 27th Birthday🎉🎉🎉</h1>
       <div className="flex justify-center items-center">
