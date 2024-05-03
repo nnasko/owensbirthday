@@ -19,6 +19,7 @@ const Countdown = () => {
           1000,
         ]}
         speed={20}
+        className='text-white font-extrabold'
         style={{ fontSize: '2em' }}
         repeat={Infinity}
       />
